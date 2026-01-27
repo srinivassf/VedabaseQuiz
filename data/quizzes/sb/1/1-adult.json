@@ -1,0 +1,360 @@
+{
+  "id": "sb-1-1-adult",
+  "title": "Srimad Bhagavatam - Canto 1 Chapter 1 | Adult Quiz (25Q)",
+  "audience": "adult",
+  "difficulty": "medium-hard",
+  "questionCount": 25,
+  "publishedOn": "2026-01-26",
+  "questions": [
+    {
+      "id": "sb1-1-01",
+      "prompt": "1. SB 1.1.1 begins with a meditation upon whom?",
+      "choices": [
+        "Brahma, the first created being",
+        "Lord Sri Krishna, son of Vasudeva",
+        "Narada Muni",
+        "The impersonal Brahman"
+      ],
+      "correctIndex": 1,
+      "feedback": "The chapter opens by offering obeisances and meditating upon Lord Sri Krishna, son of Vasudeva, as the Absolute Truth.",
+      "verseLabel": "SB 1.1.1",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+    },
+    {
+      "id": "sb1-1-02",
+      "prompt": "2. In SB 1.1.1, the Absolute Truth is described as the primeval cause of which three stages of the universe?",
+      "choices": [
+        "Creation, sustenance, and destruction",
+        "Birth, growth, and decay",
+        "Expansion, contraction, and stillness",
+        "Time, karma, and desire"
+      ],
+      "correctIndex": 0,
+      "feedback": "SB 1.1.1 identifies the Absolute Truth as the primeval cause of creation, sustenance, and destruction of the manifested universes.",
+      "verseLabel": "SB 1.1.1",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+    },
+    {
+      "id": "sb1-1-03",
+      "prompt": "3. According to SB 1.1.1, who first received Vedic knowledge within the heart?",
+      "choices": [
+        "Arjuna",
+        "Brahma (Brahmaji)",
+        "Sukadeva Gosvami",
+        "Suta Gosvami"
+      ],
+      "correctIndex": 1,
+      "feedback": "The text states that Vedic knowledge was first imparted into the heart of Brahmaji, the original living being.",
+      "verseLabel": "SB 1.1.1",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+    },
+    {
+      "id": "sb1-1-04",
+      "prompt": "4. SB 1.1.2 says the Bhagavata Purana completely rejects which type of religion?",
+      "choices": [
+        "Religion based on devotion",
+        "Religion that is materially motivated",
+        "Religion based on knowledge",
+        "Religion based on austerity"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.2 explicitly rejects religious activities that are materially motivated, and presents the highest truth.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+    },
+    {
+      "id": "sb1-1-05",
+      "prompt": "5. SB 1.1.2 says this highest truth is understandable by which kind of devotees?",
+      "choices": [
+        "Those skilled in debate",
+        "Those fully pure in heart",
+        "Those who are very wealthy",
+        "Those born in holy families"
+      ],
+      "correctIndex": 1,
+      "feedback": "The verse says the highest truth is understandable by devotees who are fully pure in heart.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+    },
+    {
+      "id": "sb1-1-06",
+      "prompt": "6. According to SB 1.1.2, what happens when one attentively and submissively hears Bhagavatam?",
+      "choices": [
+        "One gains mystic powers",
+        "The Supreme Lord is established within the heart",
+        "One becomes a great speaker",
+        "One never faces difficulties"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.2 states that attentive, submissive hearing establishes the Supreme Lord within the heart.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+    },
+    {
+      "id": "sb1-1-07",
+      "prompt": "7. SB 1.1.3 describes Srimad-Bhagavatam as what metaphor?",
+      "choices": [
+        "A battlefield manual",
+        "The mature fruit of the desire tree of Vedic literatures",
+        "A river of rituals",
+        "A mirror of the mind"
+      ],
+      "correctIndex": 1,
+      "feedback": "The verse calls Bhagavatam the mature fruit of the desire tree of Vedic literatures.",
+      "verseLabel": "SB 1.1.3",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/"
+    },
+    {
+      "id": "sb1-1-08",
+      "prompt": "8. In SB 1.1.3, why is this 'fruit' said to be even more tasteful?",
+      "choices": [
+        "Because it is written in poetic meter",
+        "Because it emanated from the lips of Sri Sukadeva Gosvami",
+        "Because it is very old",
+        "Because it is short"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.3 says it became even more tasteful because it emanated from the lips of Sri Sukadeva Gosvami.",
+      "verseLabel": "SB 1.1.3",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/"
+    },
+    {
+      "id": "sb1-1-09",
+      "prompt": "9. In SB 1.1.4, where do the great sages assemble?",
+      "choices": [
+        "Kuruksetra",
+        "Naimisaranya forest",
+        "Prayaga",
+        "Dvarka"
+      ],
+      "correctIndex": 1,
+      "feedback": "The sages, headed by Saunaka, assemble in the forest of Naimisaranya.",
+      "verseLabel": "SB 1.1.4",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/4/"
+    },
+    {
+      "id": "sb1-1-10",
+      "prompt": "10. SB 1.1.4 states the sages assembled to perform what kind of sacrifice, and for what purpose?",
+      "choices": [
+        "One-day sacrifice, for wealth",
+        "Thousand-year sacrifice, for the satisfaction of the Lord and His devotees",
+        "Fire sacrifice, for victory in war",
+        "Silent sacrifice, for mystic powers"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.4 mentions a great thousand-year sacrifice performed for the satisfaction of the Lord and His devotees.",
+      "verseLabel": "SB 1.1.4",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/4/"
+    },
+    {
+      "id": "sb1-1-11",
+      "prompt": "11. In SB 1.1.5, after offering Suta Gosvami a seat of esteem, what do the sages do?",
+      "choices": [
+        "They challenge him to debate",
+        "They make respectful inquiries",
+        "They ask for charity",
+        "They request political advice"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.5 says they make inquiries with great respect after honoring Suta Gosvami.",
+      "verseLabel": "SB 1.1.5",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/5/"
+    },
+    {
+      "id": "sb1-1-12",
+      "prompt": "12. In SB 1.1.6, the sages praise Suta Gosvami as being well versed in which set of texts?",
+      "choices": [
+        "Only the Upanisads",
+        "Only the Mahabharata",
+        "Scriptures famous for religious life, plus Puranas and histories",
+        "Only tantra texts"
+      ],
+      "correctIndex": 2,
+      "feedback": "SB 1.1.6 says Suta is well versed in religious scriptures, the Puranas, and the histories.",
+      "verseLabel": "SB 1.1.6",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/6/"
+    },
+    {
+      "id": "sb1-1-13",
+      "prompt": "13. SB 1.1.6 notes Suta studied these texts under what condition?",
+      "choices": [
+        "Under proper guidance",
+        "Alone in the forest",
+        "Only by listening to rumors",
+        "By reading translations only"
+      ],
+      "correctIndex": 0,
+      "feedback": "The verse says he went through them under proper guidance (a key principle of authorized learning).",
+      "verseLabel": "SB 1.1.6",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/6/"
+    },
+    {
+      "id": "sb1-1-14",
+      "prompt": "14. According to SB 1.1.7, Suta is acquainted with the knowledge of Vyasadeva because Vyasadeva is described as:",
+      "choices": [
+        "A powerful king",
+        "An incarnation of Godhead",
+        "A demigod",
+        "A famous poet only"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.7 calls Vyasadeva an incarnation of Godhead.",
+      "verseLabel": "SB 1.1.7",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/7/"
+    },
+    {
+      "id": "sb1-1-15",
+      "prompt": "15. In SB 1.1.8, what personal quality is highlighted as a reason Suta can speak scientifically?",
+      "choices": [
+        "His wealth",
+        "His submissiveness",
+        "His loud voice",
+        "His political skill"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.8 says that because Suta is submissive, his spiritual masters endowed him with their favors, enabling him to speak scientifically.",
+      "verseLabel": "SB 1.1.8",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/8/"
+    },
+    {
+      "id": "sb1-1-16",
+      "prompt": "16. In SB 1.1.9, the sages ask Suta to explain what he has ascertained as what for people in general?",
+      "choices": [
+        "The best business strategy",
+        "The absolute and ultimate good",
+        "The most powerful mantra",
+        "The best place to live"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.9 asks for the absolute and ultimate good (the highest welfare).",
+      "verseLabel": "SB 1.1.9",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/9/"
+    },
+    {
+      "id": "sb1-1-17",
+      "prompt": "17. SB 1.1.10 lists several Kali-yuga traits. Which set matches the verse?",
+      "choices": [
+        "Peaceful, long-lived, disciplined",
+        "Quarrelsome, lazy, misguided, unlucky, always disturbed",
+        "Fearless, charitable, self-controlled",
+        "Strong, wealthy, learned"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.10 describes people in Kali as short-lived, quarrelsome, lazy, misguided, unlucky, and always disturbed.",
+      "verseLabel": "SB 1.1.10",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/10/"
+    },
+    {
+      "id": "sb1-1-18",
+      "prompt": "18. In SB 1.1.11, why do the sages ask Suta to select the essence of all scriptures?",
+      "choices": [
+        "Because rituals are forbidden",
+        "Because duties are many and require many years of study",
+        "Because scriptures contradict each other completely",
+        "Because only one book exists"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.11 says there are many scriptures and duties, learned only after many years; therefore the essence should be selected for all living beings.",
+      "verseLabel": "SB 1.1.11",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/11/"
+    },
+    {
+      "id": "sb1-1-19",
+      "prompt": "19. In SB 1.1.12, the sages say Suta knows the purpose of the Lord's appearance in the womb of Devaki as whose son?",
+      "choices": [
+        "Pandu's son",
+        "Vasudeva's son",
+        "Nanda's son",
+        "Dasaratha's son"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.12 identifies the Lord appearing in Devaki's womb as the son of Vasudeva.",
+      "verseLabel": "SB 1.1.12",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/12/"
+    },
+    {
+      "id": "sb1-1-20",
+      "prompt": "20. SB 1.1.13 requests that Suta explain teachings imparted by whom?",
+      "choices": [
+        "Modern philosophers",
+        "Previous masters (acaryas)",
+        "Local kings",
+        "Astronomers"
+      ],
+      "correctIndex": 1,
+      "feedback": "The sages request teachings imparted by previous masters (acaryas).",
+      "verseLabel": "SB 1.1.13",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/13/"
+    },
+    {
+      "id": "sb1-1-21",
+      "prompt": "21. According to SB 1.1.13, one is uplifted in which two ways by these teachings?",
+      "choices": [
+        "By reading and writing",
+        "By speaking and by hearing",
+        "By thinking and by sleeping",
+        "By traveling and by fasting"
+      ],
+      "correctIndex": 1,
+      "feedback": "The verse states one is uplifted both by speaking them and by hearing them.",
+      "verseLabel": "SB 1.1.13",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/13/"
+    },
+    {
+      "id": "sb1-1-22",
+      "prompt": "22. SB 1.1.14 says living beings entangled in birth and death can be freed immediately by what act?",
+      "choices": [
+        "Performing a thousand sacrifices",
+        "Unconsciously chanting the holy name of Krishna",
+        "Studying logic",
+        "Worshiping fear personified"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.14 says even unconscious chanting of Krishna's holy name can free one immediately from the meshes of birth and death.",
+      "verseLabel": "SB 1.1.14",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/14/"
+    },
+    {
+      "id": "sb1-1-23",
+      "prompt": "23. In SB 1.1.15, who is said to sanctify more quickly: pure devotees or the Ganges?",
+      "choices": [
+        "Ganges sanctifies faster",
+        "Both equally fast",
+        "Pure devotees sanctify at once",
+        "Neither can sanctify"
+      ],
+      "correctIndex": 2,
+      "feedback": "SB 1.1.15 says great sages who have taken shelter of the Lord's lotus feet can sanctify at once, whereas the Ganges sanctifies after prolonged use.",
+      "verseLabel": "SB 1.1.15",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/15/"
+    },
+    {
+      "id": "sb1-1-24",
+      "prompt": "24. SB 1.1.16 asks who, desiring deliverance from Kali-yuga vices, would be unwilling to do what?",
+      "choices": [
+        "Perform austerities",
+        "Hear the virtuous glories of the Lord",
+        "Give up all work",
+        "Study grammar"
+      ],
+      "correctIndex": 1,
+      "feedback": "SB 1.1.16 challenges the reader: who would not want to hear the virtuous glories of the Lord to be delivered from Kali's vices?",
+      "verseLabel": "SB 1.1.16",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/16/"
+    },
+    {
+      "id": "sb1-1-25",
+      "prompt": "25. In SB 1.1.23, the sages ask that since Sri Krishna has departed, to whom have religious principles gone for shelter?",
+      "choices": [
+        "To the demigods",
+        "To the Vedas only",
+        "To whom dharma has now taken shelter",
+        "To the kings of the earth"
+      ],
+      "correctIndex": 2,
+      "feedback": "SB 1.1.23 asks where religious principles have gone for shelter after Krishna's departure to His own abode.",
+      "verseLabel": "SB 1.1.23",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/23/"
+    }
+  ]
+}

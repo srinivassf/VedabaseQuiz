@@ -1,0 +1,360 @@
+{
+  "id": "bg-2-adult",
+  "title": "Bhagavad Gita - Chapter 2 | Adult Quiz (25Q)",
+  "audience": "adult",
+  "difficulty": "medium-hard",
+  "questionCount": 25,
+  "publishedOn": "2026-01-26",
+  "questions": [
+    {
+      "id": "bg2-01",
+      "prompt": "1. In BG 2.1, who begins to speak to Arjuna, who is overwhelmed with compassion and grief?",
+      "choices": [
+        "Bhishma",
+        "Sanjaya",
+        "Lord Krishna (Madhusudana)",
+        "Drona"
+      ],
+      "correctIndex": 2,
+      "feedback": "Sanjaya describes Lord Krishna (addressed as Madhusudana) speaking to Arjuna in the midst of his grief.",
+      "verseLabel": "BG 2.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/1/"
+    },
+    {
+      "id": "bg2-02",
+      "prompt": "2. In BG 2.2, Krishna calls Arjuna's weakness something practiced by which type of people?",
+      "choices": [
+        "The wise and self-controlled",
+        "Non-Aryans (not befitting an Aryan)",
+        "Those fixed in yoga",
+        "Those who have realized Brahman"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna says this weakness is not befitting an Aryan and does not lead to higher planets or fame.",
+      "verseLabel": "BG 2.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/2/"
+    },
+    {
+      "id": "bg2-03",
+      "prompt": "3. In BG 2.3, Krishna warns Arjuna not to give in to what (described as petty weakness of heart)?",
+      "choices": [
+        "Compassion for all living beings",
+        "False humility",
+        "Impurity and cowardice",
+        "Renunciation and charity"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krishna urges Arjuna to give up this weakness of heart and arise to fight.",
+      "verseLabel": "BG 2.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/3/"
+    },
+    {
+      "id": "bg2-04",
+      "prompt": "4. In BG 2.7, Arjuna takes shelter of Krishna in what role?",
+      "choices": [
+        "As his equal friend",
+        "As a disciple seeking instruction",
+        "As a rival debater",
+        "As a neutral witness"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna admits confusion about duty and asks Krishna to instruct him as a disciple.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/"
+    },
+    {
+      "id": "bg2-05",
+      "prompt": "5. According to the purport of BG 2.7, what is the recommended way to solve life perplexities?",
+      "choices": [
+        "Rely on personal interpretation",
+        "Approach a bona fide spiritual master in disciplic succession",
+        "Avoid all difficult questions",
+        "Depend only on experiments"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport stresses approaching a bona fide spiritual master rather than remaining in confusion.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/"
+    },
+    {
+      "id": "bg2-06",
+      "prompt": "6. In BG 2.11, Krishna says the wise lament for neither the living nor the dead because they understand what?",
+      "choices": [
+        "The body is eternal",
+        "The soul is eternal and distinct from the body",
+        "War always brings happiness",
+        "All duties are optional"
+      ],
+      "correctIndex": 1,
+      "feedback": "The wise know the soul is eternal and do not grieve as if the body were the self.",
+      "verseLabel": "BG 2.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/11/"
+    },
+    {
+      "id": "bg2-07",
+      "prompt": "7. In BG 2.12, Krishna states that in the past, present, and future:",
+      "choices": [
+        "Only Krishna exists",
+        "Krishna, Arjuna, and all the kings exist as individuals",
+        "The soul merges and loses individuality",
+        "Bodies are permanent"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna says all persons exist as individuals, and will continue to exist.",
+      "verseLabel": "BG 2.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/12/"
+    },
+    {
+      "id": "bg2-08",
+      "prompt": "8. In BG 2.13, what example is used to show that the soul continues while the body changes?",
+      "choices": [
+        "Changing seasons",
+        "Changing garments",
+        "Childhood to youth to old age",
+        "Rivers flowing to the sea"
+      ],
+      "correctIndex": 2,
+      "feedback": "The soul passes through childhood, youth, and old age in one body; similarly it passes to another body.",
+      "verseLabel": "BG 2.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/13/"
+    },
+    {
+      "id": "bg2-09",
+      "prompt": "9. In BG 2.14, Krishna teaches that happiness and distress arise from what?",
+      "choices": [
+        "The will of society",
+        "Contact of the senses with their objects",
+        "The movement of planets only",
+        "The power of wealth"
+      ],
+      "correctIndex": 1,
+      "feedback": "He says these experiences come from sense contact and should be tolerated without disturbance.",
+      "verseLabel": "BG 2.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/14/"
+    },
+    {
+      "id": "bg2-10",
+      "prompt": "10. In BG 2.15, a person who is steady amid happiness and distress is eligible for what?",
+      "choices": [
+        "Fame in society",
+        "Liberation",
+        "Material prosperity",
+        "Mystic powers only"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport explains that tolerating distress and happiness steadily makes one eligible for liberation.",
+      "verseLabel": "BG 2.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/15/"
+    },
+    {
+      "id": "bg2-11",
+      "prompt": "11. In BG 2.16, Krishna distinguishes the real and unreal by saying:",
+      "choices": [
+        "The real is temporary",
+        "The unreal never was, and the real never ceases to be",
+        "Both are equally permanent",
+        "Nothing exists"
+      ],
+      "correctIndex": 1,
+      "feedback": "This verse establishes the permanence of the real (the soul) and the non-endurance of the unreal (temporary matter).",
+      "verseLabel": "BG 2.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/16/"
+    },
+    {
+      "id": "bg2-12",
+      "prompt": "12. In BG 2.17, what is said to pervade the entire body?",
+      "choices": [
+        "Air",
+        "The Supersoul only",
+        "The individual soul (atma)",
+        "Blood"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krishna says the soul that pervades the body is indestructible and cannot be destroyed.",
+      "verseLabel": "BG 2.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/17/"
+    },
+    {
+      "id": "bg2-13",
+      "prompt": "13. In BG 2.20, which statement best matches Krishna's description of the soul?",
+      "choices": [
+        "Born with the body and dies with it",
+        "Neither born nor ever dies; eternal and primeval",
+        "Created by parents",
+        "Temporary and changing"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna says the soul is unborn, eternal, ever-existing, and primeval.",
+      "verseLabel": "BG 2.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/"
+    },
+    {
+      "id": "bg2-14",
+      "prompt": "14. In BG 2.22, the soul's change of bodies is compared to:",
+      "choices": [
+        "A river changing course",
+        "A person changing garments",
+        "A fire consuming wood",
+        "A seed becoming a tree"
+      ],
+      "correctIndex": 1,
+      "feedback": "As a person puts on new garments, the soul accepts new bodies and gives up old ones.",
+      "verseLabel": "BG 2.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/22/"
+    },
+    {
+      "id": "bg2-15",
+      "prompt": "15. In BG 2.25 (purport), why must we accept the soul's existence through Vedic authority (sruti)?",
+      "choices": [
+        "Because it is obvious to the eyes",
+        "Because it can be proven with microscopes",
+        "Because it is too subtle for material experiments",
+        "Because it is a social convention"
+      ],
+      "correctIndex": 2,
+      "feedback": "The purport explains the soul is too small/subtle for material proof, so we rely on Vedic wisdom.",
+      "verseLabel": "BG 2.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/25/"
+    },
+    {
+      "id": "bg2-16",
+      "prompt": "16. In BG 2.31, Krishna says a ksatriya has no better engagement than:",
+      "choices": [
+        "Avoiding conflict at all costs",
+        "Fighting for religious principles (dharma)",
+        "Retiring to the forest immediately",
+        "Winning wealth by trade"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna frames Arjuna's duty: fighting for dharma is the proper engagement for a ksatriya.",
+      "verseLabel": "BG 2.31",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/31/"
+    },
+    {
+      "id": "bg2-17",
+      "prompt": "17. In BG 2.37, Krishna motivates Arjuna by saying that if he fights:",
+      "choices": [
+        "He will certainly become rich",
+        "He will go to heaven if killed, or enjoy the earth if victorious",
+        "He will never feel pain",
+        "He will become a brahmana"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna states the outcomes: heaven if slain, or earthly kingdom if victorious.",
+      "verseLabel": "BG 2.37",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/37/"
+    },
+    {
+      "id": "bg2-18",
+      "prompt": "18. In BG 2.39 (purport), Sankhya is described as knowledge of what, and yoga as what?",
+      "choices": [
+        "Matter; rituals",
+        "The real nature of the soul; control of the senses",
+        "Weapons; warfare",
+        "Politics; economics"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport defines Sankhya as describing the soul in detail, and yoga as sense control (buddhi-yoga in context).",
+      "verseLabel": "BG 2.39",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/39/"
+    },
+    {
+      "id": "bg2-19",
+      "prompt": "19. In BG 2.40 (purport), why is work begun in Krishna consciousness not lost even if incomplete?",
+      "choices": [
+        "Because it guarantees wealth",
+        "Because it has a permanent spiritual effect",
+        "Because it stops time",
+        "Because it is socially praised"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport explains devotional work has lasting effect, unlike material work which can be lost if unfinished.",
+      "verseLabel": "BG 2.40",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/40/"
+    },
+    {
+      "id": "bg2-20",
+      "prompt": "20. In BG 2.47 (purport), Krishna contrasts prescribed duty with which two dangers?",
+      "choices": [
+        "Charity and austerity",
+        "Capricious work and inaction",
+        "Meditation and study",
+        "Friendship and enmity"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport highlights three considerations: prescribed duties, capricious work, and inaction.",
+      "verseLabel": "BG 2.47",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/47/"
+    },
+    {
+      "id": "bg2-21",
+      "prompt": "21. In BG 2.48 (purport), what is the key idea of acting in yoga?",
+      "choices": [
+        "Act only when you feel inspired",
+        "Concentrate the mind on the Supreme and follow Krishna's direction",
+        "Work only for results",
+        "Avoid all action"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport explains yoga here means focusing on the Supreme Lord; Arjuna should act by Krishna's dictation.",
+      "verseLabel": "BG 2.48",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/48/"
+    },
+    {
+      "id": "bg2-22",
+      "prompt": "22. In BG 2.49 (purport), those who want to enjoy the fruits of their work are called:",
+      "choices": [
+        "Saints",
+        "Misers",
+        "Liberated souls",
+        "Great yogis"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport says one who understands his position as Krishna's servant gives up fruitive desire; fruit-seekers are called misers.",
+      "verseLabel": "BG 2.49",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/49/"
+    },
+    {
+      "id": "bg2-23",
+      "prompt": "23. In BG 2.55, a person is sthita-prajna when he:",
+      "choices": [
+        "Has no responsibilities",
+        "Gives up mental concocted sense desires and is satisfied in the self",
+        "Wins every argument",
+        "Performs rituals perfectly"
+      ],
+      "correctIndex": 1,
+      "feedback": "BG 2.55 defines steadiness: giving up desires arising from the mind and finding satisfaction in the self.",
+      "verseLabel": "BG 2.55",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/55/"
+    },
+    {
+      "id": "bg2-24",
+      "prompt": "24. In BG 2.62-63, what sequence is described as the psychological slide that leads to downfall?",
+      "choices": [
+        "Faith -> compassion -> wisdom",
+        "Senses -> sleep -> joy",
+        "Contemplation -> attachment -> desire -> anger -> delusion -> loss of memory -> loss of intelligence",
+        "Study -> sacrifice -> liberation"
+      ],
+      "correctIndex": 2,
+      "feedback": "BG 2.62-63 outlines the chain from sense contemplation to attachment, desire, anger, delusion, and finally loss of intelligence.",
+      "verseLabel": "BG 2.62",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/62/"
+    },
+    {
+      "id": "bg2-25",
+      "prompt": "25. In BG 2.70-72, which statement best captures the end-state of steady consciousness?",
+      "choices": [
+        "He is flooded by desires like a small pond",
+        "Desires enter like rivers into the ocean, yet he remains undisturbed and attains peace",
+        "He must stop all activity to be peaceful",
+        "Peace comes from satisfying every desire"
+      ],
+      "correctIndex": 1,
+      "feedback": "BG 2.70 compares the steady person to an ocean that remains full though rivers enter; BG 2.72 says such godly life leads to the kingdom of God if maintained even at death.",
+      "verseLabel": "BG 2.70",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/70/"
+    }
+  ]
+}
