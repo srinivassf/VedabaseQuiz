@@ -8,7 +8,7 @@ function getAudienceFromSearchParams(searchParams: Record<string, string | strin
   return "all";
 }
 
-export default function BgIndex({ searchParams }: { searchParams: Record<string, string | string[] | undefined> }) {
+export default function BgIndex({ searchParams  }) {
   const availability = getBgAvailability();
   const audience = getAudienceFromSearchParams(searchParams);
 

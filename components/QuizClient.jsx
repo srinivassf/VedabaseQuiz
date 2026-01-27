@@ -1,21 +1,6 @@
 "use client";
 
 import React, { useMemo, useState } from "react";
-import type { QuizData } from "../lib/quizLoader";
-
-type Props = { quiz: QuizData };
-
-type ResultRow = {
-  qId: string;
-  prompt: string;
-  choices: string[];
-  selectedIndex: number | null;
-  correctIndex: number;
-  isCorrect: boolean;
-  feedback: string;
-  verseLabel: string;
-  verseUrl: string;
-};
 
 export default function QuizClient({ quiz }: Props) {
   const [answers, setAnswers] = useState<(number | null)[]>(

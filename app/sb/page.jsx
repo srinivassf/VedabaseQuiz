@@ -8,7 +8,7 @@ function getAudienceFromSearchParams(searchParams: Record<string, string | strin
   return "all";
 }
 
-export default function SbIndex({ searchParams }: { searchParams: Record<string, string | string[] | undefined> }) {
+export default function SbIndex({ searchParams  }) {
   const cantos = listSbCantos();
   const audience = getAudienceFromSearchParams(searchParams);
 
