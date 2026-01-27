@@ -1,0 +1,29 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Allow access to actual files and directories
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Rewrite all other requests to index.js (Node.js app)
+  RewriteRule ^ index.js [QSA,L]
+</IfModule>
+
+# Allow access to .next and public folders
+<FilesMatch "\.(js|css|jpg|jpeg|png|gif|ico|svg|woff|woff2|ttf|eot)$">
+  Order allow,deny
+  Allow from all
+</FilesMatch>
+
+# Deny access to sensitive files
+<FilesMatch "^\.">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+<FilesMatch "(package\.json|next\.config\.js|tsconfig\.json)$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>

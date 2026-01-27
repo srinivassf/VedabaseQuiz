@@ -5,14 +5,14 @@ export function generateStaticParams() {
   return listSbCantos().map((c) => ({ canto: String(c) }));
 }
 
-function getAudienceFromSearchParams(searchParams, string | string[] | undefined>): Audience | "all" {
+function getAudienceFromSearchParams(searchParams) {
   const a = searchParams["audience"];
   const v = Array.isArray(a) ? a[0] : a;
   if (v === "adult" || v === "kids") return v;
   return "all";
 }
 
-export default function SbCantoPage({ params, searchParams }: { params: { canto: string }, searchParams: Record<string, string | string[] | undefined> }) {
+export default function SbCantoPage({ params, searchParams }) {
   const cantoNum = Number(params.canto);
   const audience = getAudienceFromSearchParams(searchParams);
   const availability = getSbAvailability();
@@ -22,7 +22,7 @@ export default function SbCantoPage({ params, searchParams }: { params: { canto:
   const maxChapter = existing.length > 0 ? Math.max(...existing) : 5; // start small if empty
   const chapters = Array.from({ length: Math.max(maxChapter, 5) }, (_, i) => i + 1);
 
-  function linkFor(chapter, aud: "adult" | "kids") {
+  function linkFor(chapter, aud) {
     const key = `${cantoNum}/${chapter}-${aud}`;
     const meta = availability.get(key);
     return meta ? `/quiz/${meta.slug}/` : null;

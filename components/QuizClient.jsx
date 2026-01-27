@@ -2,13 +2,13 @@
 
 import React, { useMemo, useState } from "react";
 
-export default function QuizClient({ quiz }: Props) {
-  const [answers, setAnswers] = useState<(number | null)[]>(
+export default function QuizClient({ quiz }) {
+  const [answers, setAnswers] = useState(
     Array.from({ length: quiz.questions.length }, () => null)
   );
   const [submitted, setSubmitted] = useState(false);
 
-  const results = useMemo<ResultRow[]>(() => {
+  const results = useMemo(() => {
     return quiz.questions.map((q, i) => {
       const selectedIndex = answers[i];
       const isCorrect = selectedIndex === q.correctIndex;
@@ -31,7 +31,7 @@ export default function QuizClient({ quiz }: Props) {
     [results]
   );
 
-  function onSelect(qIdx: number, choiceIdx: number) {
+  function onSelect(qIdx, choiceIdx) {
     if (submitted) return;
     setAnswers((prev) => {
       const next = [...prev];

@@ -1,0 +1,1193 @@
+
+> vedabase-quiz@0.2.0 build
+> next build
+
+  ▲ Next.js 14.2.35
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/29) ...
+Invalid quiz slug: bg%5C10-adult, parts: bg%5C10-adult
+Error: Invalid quiz slug: bg%5C10-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '3246791495'
+}
+Invalid quiz slug: bg%5C10-adult, parts: bg%5C10-adult
+Error: Invalid quiz slug: bg%5C10-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '1906006983'
+}
+Error: Invalid quiz slug: bg%5C10-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '1906006983'
+}
+
+Error occurred prerendering page "/quiz/bg/10-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C10-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C1-adult, parts: bg%5C1-adult
+Error: Invalid quiz slug: bg%5C1-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '2422996407'
+}
+Invalid quiz slug: bg%5C1-adult, parts: bg%5C1-adult
+Error: Invalid quiz slug: bg%5C1-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2597543479'
+}
+Error: Invalid quiz slug: bg%5C1-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2597543479'
+}
+
+Error occurred prerendering page "/quiz/bg/1-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C1-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+   Generating static pages (7/29) 
+Invalid quiz slug: bg%5C14-adult, parts: bg%5C14-adult
+Error: Invalid quiz slug: bg%5C14-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1665276615'
+}
+Invalid quiz slug: bg%5C14-adult, parts: bg%5C14-adult
+Error: Invalid quiz slug: bg%5C14-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '324492103'
+}
+Error: Invalid quiz slug: bg%5C14-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '324492103'
+}
+
+Error occurred prerendering page "/quiz/bg/14-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C14-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C12-adult, parts: bg%5C12-adult
+Error: Invalid quiz slug: bg%5C12-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '3805780736'
+}
+Invalid quiz slug: bg%5C12-adult, parts: bg%5C12-adult
+Error: Invalid quiz slug: bg%5C12-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2750700416'
+}
+Error: Invalid quiz slug: bg%5C12-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2750700416'
+}
+Invalid quiz slug: bg%5C13-adult, parts: bg%5C13-adult
+Error: Invalid quiz slug: bg%5C13-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '3499351561'
+}
+Invalid quiz slug: bg%5C13-adult, parts: bg%5C13-adult
+Error: Invalid quiz slug: bg%5C13-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2389995145'
+}
+Error: Invalid quiz slug: bg%5C13-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2389995145'
+}
+Invalid quiz slug: bg%5C11-adult, parts: bg%5C11-adult
+Error: Invalid quiz slug: bg%5C11-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '2954320764'
+}
+Invalid quiz slug: bg%5C11-adult, parts: bg%5C11-adult
+Error: Invalid quiz slug: bg%5C11-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '1899240444'
+}
+Error: Invalid quiz slug: bg%5C11-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '1899240444'
+}
+Invalid quiz slug: bg%5C16-adult, parts: bg%5C16-adult
+Error: Invalid quiz slug: bg%5C16-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1296465815'
+}
+Invalid quiz slug: bg%5C16-adult, parts: bg%5C16-adult
+Error: Invalid quiz slug: bg%5C16-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2399666199'
+}
+Error: Invalid quiz slug: bg%5C16-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2399666199'
+}
+Invalid quiz slug: bg%5C15-adult, parts: bg%5C15-adult
+Error: Invalid quiz slug: bg%5C15-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1372805884'
+}
+Invalid quiz slug: bg%5C15-adult, parts: bg%5C15-adult
+Error: Invalid quiz slug: bg%5C15-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '317725564'
+}
+Error: Invalid quiz slug: bg%5C15-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '317725564'
+}
+Invalid quiz slug: bg%5C17-adult, parts: bg%5C17-adult
+Error: Invalid quiz slug: bg%5C17-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1914095543'
+}
+Invalid quiz slug: bg%5C17-adult, parts: bg%5C17-adult
+Error: Invalid quiz slug: bg%5C17-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '3017295927'
+}
+Error: Invalid quiz slug: bg%5C17-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '3017295927'
+}
+
+Error occurred prerendering page "/quiz/bg/17-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C17-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+
+Error occurred prerendering page "/quiz/bg/12-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C12-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C18-adult, parts: bg%5C18-adult
+Error: Invalid quiz slug: bg%5C18-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1555966535'
+}
+Invalid quiz slug: bg%5C18-adult, parts: bg%5C18-adult
+Error: Invalid quiz slug: bg%5C18-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '215182023'
+}
+Error: Invalid quiz slug: bg%5C18-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '215182023'
+}
+
+Error occurred prerendering page "/quiz/bg/18-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C18-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+
+Error occurred prerendering page "/quiz/bg/13-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C13-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+
+Error occurred prerendering page "/quiz/bg/11-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C11-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+
+Error occurred prerendering page "/quiz/bg/16-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C16-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+
+Error occurred prerendering page "/quiz/bg/15-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C15-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+   Generating static pages (14/29) 
+Invalid quiz slug: bg%5C2-adult, parts: bg%5C2-adult
+Error: Invalid quiz slug: bg%5C2-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '316992992'
+}
+Invalid quiz slug: bg%5C2-adult, parts: bg%5C2-adult
+Error: Invalid quiz slug: bg%5C2-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2362936928'
+}
+Error: Invalid quiz slug: bg%5C2-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2362936928'
+}
+
+Error occurred prerendering page "/quiz/bg/2-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C2-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C3-adult, parts: bg%5C3-adult
+Error: Invalid quiz slug: bg%5C3-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '585811209'
+}
+Invalid quiz slug: bg%5C3-adult, parts: bg%5C3-adult
+Error: Invalid quiz slug: bg%5C3-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '4134352265'
+}
+Error: Invalid quiz slug: bg%5C3-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '4134352265'
+}
+Invalid quiz slug: bg%5C5-adult, parts: bg%5C5-adult
+Error: Invalid quiz slug: bg%5C5-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1025256631'
+}
+Invalid quiz slug: bg%5C5-adult, parts: bg%5C5-adult
+Error: Invalid quiz slug: bg%5C5-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '1199803703'
+}
+Error: Invalid quiz slug: bg%5C5-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '1199803703'
+}
+
+Error occurred prerendering page "/quiz/bg/5-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C5-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C4-adult, parts: bg%5C4-adult
+Error: Invalid quiz slug: bg%5C4-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1235244732'
+}
+Invalid quiz slug: bg%5C4-adult, parts: bg%5C4-adult
+Error: Invalid quiz slug: bg%5C4-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '3281188668'
+}
+Error: Invalid quiz slug: bg%5C4-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '3281188668'
+}
+
+Error occurred prerendering page "/quiz/bg/4-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C4-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C5-kids, parts: bg%5C5-kids
+Error: Invalid quiz slug: bg%5C5-kids
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '3579439351'
+}
+Invalid quiz slug: bg%5C5-kids, parts: bg%5C5-kids
+Error: Invalid quiz slug: bg%5C5-kids
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2238654839'
+}
+Error: Invalid quiz slug: bg%5C5-kids
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2238654839'
+}
+
+Error occurred prerendering page "/quiz/bg/5-kids". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C5-kids
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C7-adult, parts: bg%5C7-adult
+Error: Invalid quiz slug: bg%5C7-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1253091623'
+}
+Invalid quiz slug: bg%5C7-adult, parts: bg%5C7-adult
+Error: Invalid quiz slug: bg%5C7-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2608581031'
+}
+Error: Invalid quiz slug: bg%5C7-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2608581031'
+}
+
+Error occurred prerendering page "/quiz/bg/7-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C7-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\[canto]\page.js:1:5852)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C6-adult, parts: bg%5C6-adult
+Error: Invalid quiz slug: bg%5C6-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '570863420'
+}
+Invalid quiz slug: bg%5C6-adult, parts: bg%5C6-adult
+Error: Invalid quiz slug: bg%5C6-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2616807356'
+}
+Error: Invalid quiz slug: bg%5C6-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2616807356'
+}
+
+Error occurred prerendering page "/quiz/bg/6-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C6-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+
+Error occurred prerendering page "/quiz/bg/3-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C3-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: bg%5C8-adult, parts: bg%5C8-adult
+Error: Invalid quiz slug: bg%5C8-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '680493408'
+}
+Invalid quiz slug: bg%5C8-adult, parts: bg%5C8-adult
+Error: Invalid quiz slug: bg%5C8-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2726437344'
+}
+Error: Invalid quiz slug: bg%5C8-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2726437344'
+}
+
+Error occurred prerendering page "/quiz/bg/8-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C8-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\sb\page.js:1:4958)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+   Generating static pages (21/29) 
+Invalid quiz slug: bg%5C9-adult, parts: bg%5C9-adult
+Error: Invalid quiz slug: bg%5C9-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '1140137353'
+}
+Invalid quiz slug: bg%5C9-adult, parts: bg%5C9-adult
+Error: Invalid quiz slug: bg%5C9-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '393711113'
+}
+Error: Invalid quiz slug: bg%5C9-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '393711113'
+}
+
+Error occurred prerendering page "/quiz/bg/9-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: bg%5C9-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\page.js:1:5188)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: sb%5C1%5C2-adult, parts: sb%5C1%5C2-adult
+Error: Invalid quiz slug: sb%5C1%5C2-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '929604599'
+}
+Invalid quiz slug: sb%5C1%5C2-adult, parts: sb%5C1%5C2-adult
+Error: Invalid quiz slug: sb%5C1%5C2-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2707981431'
+}
+Error: Invalid quiz slug: sb%5C1%5C2-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '2707981431'
+}
+
+Error occurred prerendering page "/quiz/sb/1/2-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: sb%5C1%5C2-adult
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7375)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+Invalid quiz slug: sb%5C1%5C1-adult, parts: sb%5C1%5C1-adult
+Error: Invalid quiz slug: sb%5C1%5C1-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14) {
+  digest: '2536952572'
+}
+Invalid quiz slug: sb%5C1%5C1-adult, parts: sb%5C1%5C1-adult
+Error: Invalid quiz slug: sb%5C1%5C1-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '3892441980'
+}
+Error: Invalid quiz slug: sb%5C1%5C1-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at Timeout._onTimeout (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135497) {
+  digest: '3892441980'
+}
+
+Error occurred prerendering page "/quiz/sb/1/1-adult". Read more: https://nextjs.org/docs/messages/prerender-error
+
+Error: Invalid quiz slug: sb%5C1%5C1-adult
+    at o (C:\Users\Srini\VedabaseQuiz\.next\server\app\bg\page.js:1:5397)
+    at a (C:\Users\Srini\VedabaseQuiz\.next\server\app\quiz\[...slug]\page.js:1:7027)
+    at em (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:134808)
+    at e (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:137693)
+    at e_ (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:138168)
+    at Array.toJSON (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:135777)
+    at stringify (<anonymous>)
+    at eE (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142242)
+    at eT (C:\Users\Srini\VedabaseQuiz\node_modules\next\dist\compiled\next-server\app-page.runtime.prod.js:12:142721)
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:63:14)
+ ✓ Generating static pages (29/29)
+
+> Export encountered errors on following paths:
+	/quiz/[...slug]/page: /quiz/bg/1-adult
+	/quiz/[...slug]/page: /quiz/bg/10-adult
+	/quiz/[...slug]/page: /quiz/bg/11-adult
+	/quiz/[...slug]/page: /quiz/bg/12-adult
+	/quiz/[...slug]/page: /quiz/bg/13-adult
+	/quiz/[...slug]/page: /quiz/bg/14-adult
+	/quiz/[...slug]/page: /quiz/bg/15-adult
+	/quiz/[...slug]/page: /quiz/bg/16-adult
+	/quiz/[...slug]/page: /quiz/bg/17-adult
+	/quiz/[...slug]/page: /quiz/bg/18-adult
+	/quiz/[...slug]/page: /quiz/bg/2-adult
+	/quiz/[...slug]/page: /quiz/bg/3-adult
+	/quiz/[...slug]/page: /quiz/bg/4-adult
+	/quiz/[...slug]/page: /quiz/bg/5-adult
+	/quiz/[...slug]/page: /quiz/bg/5-kids
+	/quiz/[...slug]/page: /quiz/bg/6-adult
+	/quiz/[...slug]/page: /quiz/bg/7-adult
+	/quiz/[...slug]/page: /quiz/bg/8-adult
+	/quiz/[...slug]/page: /quiz/bg/9-adult
+	/quiz/[...slug]/page: /quiz/sb/1/1-adult
+	/quiz/[...slug]/page: /quiz/sb/1/2-adult
