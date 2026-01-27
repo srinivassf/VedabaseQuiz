@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { listSbCantos, Audience } from "../../lib/quizLoader";
+import { listSbCantos} from "../../lib/quizLoader";
 
-function getAudienceFromSearchParams(searchParams: Record<string, string | string[] | undefined>): Audience | "all" {
+function getAudienceFromSearchParams(searchParams, string | string[] | undefined>): Audience | "all" {
   const a = searchParams["audience"];
   const v = Array.isArray(a) ? a[0] : a;
   if (v === "adult" || v === "kids") return v;

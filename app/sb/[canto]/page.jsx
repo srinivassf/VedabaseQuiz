@@ -1,11 +1,11 @@
 import Link from "next/link";
-import { getSbAvailability, listSbCantos, listSbChaptersInCanto, Audience } from "../../../lib/quizLoader";
+import { getSbAvailability, listSbCantos, listSbChaptersInCanto} from "../../../lib/quizLoader";
 
 export function generateStaticParams() {
   return listSbCantos().map((c) => ({ canto: String(c) }));
 }
 
-function getAudienceFromSearchParams(searchParams: Record<string, string | string[] | undefined>): Audience | "all" {
+function getAudienceFromSearchParams(searchParams, string | string[] | undefined>): Audience | "all" {
   const a = searchParams["audience"];
   const v = Array.isArray(a) ? a[0] : a;
   if (v === "adult" || v === "kids") return v;
@@ -22,7 +22,7 @@ export default function SbCantoPage({ params, searchParams }: { params: { canto:
   const maxChapter = existing.length > 0 ? Math.max(...existing) : 5; // start small if empty
   const chapters = Array.from({ length: Math.max(maxChapter, 5) }, (_, i) => i + 1);
 
-  function linkFor(chapter: number, aud: "adult" | "kids") {
+  function linkFor(chapter, aud: "adult" | "kids") {
     const key = `${cantoNum}/${chapter}-${aud}`;
     const meta = availability.get(key);
     return meta ? `/quiz/${meta.slug}/` : null;

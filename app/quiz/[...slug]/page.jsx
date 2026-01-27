@@ -5,7 +5,7 @@ export function generateStaticParams() {
   return listQuizSlugs().map((s) => ({ slug: s.split("/") }));
 }
 
-export default function QuizPage({ params }: { params: { slug: string[] } }) {
+export default function QuizPage({ params }) {
   const slug = params.slug.join("/");
   const quiz = getQuizBySlug(slug);
   return <QuizClient quiz={quiz} />;

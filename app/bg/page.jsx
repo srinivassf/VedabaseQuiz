@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { getBgAvailability, Audience } from "../../lib/quizLoader";
+import { getBgAvailability} from "../../lib/quizLoader";
 
-function getAudienceFromSearchParams(searchParams: Record<string, string | string[] | undefined>): Audience | "all" {
+function getAudienceFromSearchParams(searchParams, string | string[] | undefined>): Audience | "all" {
   const a = searchParams["audience"];
   const v = Array.isArray(a) ? a[0] : a;
   if (v === "adult" || v === "kids") return v;
@@ -14,7 +14,7 @@ export default function BgIndex({ searchParams  }) {
 
   const chapters = Array.from({ length: 18 }, (_, i) => i + 1);
 
-  function linkFor(chapter: number, aud: "adult" | "kids") {
+  function linkFor(chapter, aud: "adult" | "kids") {
     const key = `${chapter}-${aud}`;
     const meta = availability.get(key);
     return meta ? `/quiz/${meta.slug}/` : null;
