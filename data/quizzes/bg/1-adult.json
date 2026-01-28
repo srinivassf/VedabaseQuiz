@@ -1,0 +1,360 @@
+{
+  "id": "bg-1-adult",
+  "title": "Bhagavad Gita - Chapter 1 | Adult Quiz (25Q)",
+  "audience": "adult",
+  "difficulty": "medium-hard",
+  "questionCount": 25,
+  "publishedOn": "2026-01-26",
+  "questions": [
+    {
+      "id": "bg1-01",
+      "prompt": "1. In BG 1.1, Dhritarashtra specifically asks Sanjaya what the assembled parties did at which place?",
+      "choices": [
+        "Hastinapura",
+        "Kurukshetra (dharma-ksetra)",
+        "Dvaraka",
+        "Prayaga"
+      ],
+      "correctIndex": 1,
+      "feedback": "Dhritarashtra asks about the battle assembly at Kurukshetra, described as a place of pilgrimage (dharma-ksetra).",
+      "verseLabel": "BG 1.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
+    },
+    {
+      "id": "bg1-02",
+      "prompt": "2. According to the purport of BG 1.1, how should Bhagavad-gita be studied to avoid error?",
+      "choices": [
+        "By personal interpretation and speculation",
+        "By reading only the Sanskrit meter",
+        "By scrutinizing it with the help of a devotee in disciplic succession",
+        "By ignoring Arjuna's role as a student"
+      ],
+      "correctIndex": 2,
+      "feedback": "The purport advises reading Bhagavad-gita very scrutinizingly with the help of a devotee, without motivated interpretations.",
+      "verseLabel": "BG 1.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
+    },
+    {
+      "id": "bg1-03",
+      "prompt": "3. In BG 1.2, after viewing the Pandava army formation, Duryodhana approaches whom first?",
+      "choices": [
+        "Bhishma",
+        "Krishna",
+        "His teacher (Drona)",
+        "Yudhisthira"
+      ],
+      "correctIndex": 2,
+      "feedback": "Sanjaya says Duryodhana went to his teacher after seeing the Pandava army arranged in formation.",
+      "verseLabel": "BG 1.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/2/"
+    },
+    {
+      "id": "bg1-04",
+      "prompt": "4. In BG 1.3, Duryodhana praises the Pandava army as being expertly arranged by whose disciple?",
+      "choices": [
+        "The son of Kunti",
+        "The son of Drupada",
+        "The son of Subhadra",
+        "The son of Somadatta"
+      ],
+      "correctIndex": 1,
+      "feedback": "He notes the army is expertly arranged by the intelligent disciple, the son of Drupada.",
+      "verseLabel": "BG 1.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/3/"
+    },
+    {
+      "id": "bg1-05",
+      "prompt": "5. In BG 1.4, which trio is specifically named as heroic bowmen equal in fighting to Bhima and Arjuna?",
+      "choices": [
+        "Yuyudhana, Virata, Drupada",
+        "Nakula, Sahadeva, Yudhisthira",
+        "Karna, Krpa, Asvatthama",
+        "Bhuri-srava, Vikarna, Drona"
+      ],
+      "correctIndex": 0,
+      "feedback": "BG 1.4 names Yuyudhana, Virata, and Drupada among those equal to Bhima and Arjuna.",
+      "verseLabel": "BG 1.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/4/"
+    },
+    {
+      "id": "bg1-06",
+      "prompt": "6. In BG 1.5, which of the following is listed among the heroic fighters on the Pandava side?",
+      "choices": [
+        "Kuntibhoja",
+        "Duryodhana",
+        "Dhritarashtra",
+        "Sanjaya"
+      ],
+      "correctIndex": 0,
+      "feedback": "BG 1.5 lists Kuntibhoja (along with several others) as a great heroic fighter.",
+      "verseLabel": "BG 1.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/5/"
+    },
+    {
+      "id": "bg1-07",
+      "prompt": "7. In BG 1.7, Duryodhana begins listing the captains especially qualified to lead whose force?",
+      "choices": [
+        "The Pandavas' force",
+        "His own military force",
+        "The demigods' force",
+        "A neutral force of sages"
+      ],
+      "correctIndex": 1,
+      "feedback": "He says he will tell about captains qualified to lead 'my military force'.",
+      "verseLabel": "BG 1.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/7/"
+    },
+    {
+      "id": "bg1-08",
+      "prompt": "8. In BG 1.8, Duryodhana names which person first among those always victorious in battle?",
+      "choices": [
+        "Arjuna",
+        "Bhishma",
+        "Satyaki",
+        "Drupada"
+      ],
+      "correctIndex": 1,
+      "feedback": "He names personalities like you (Drona), Bhishma, Karna, Krpa, Asvatthama, etc.; Bhishma is explicitly named.",
+      "verseLabel": "BG 1.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/8/"
+    },
+    {
+      "id": "bg1-09",
+      "prompt": "9. In BG 1.10, Duryodhana describes the Kaurava strength as _____ and the Pandava strength as _____.",
+      "choices": [
+        "limited; immeasurable",
+        "equal; superior",
+        "immeasurable; limited",
+        "weak; unprotected"
+      ],
+      "correctIndex": 2,
+      "feedback": "He says their strength is immeasurable under Bhishma, whereas the Pandavas' strength is limited under Bhima.",
+      "verseLabel": "BG 1.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/10/"
+    },
+    {
+      "id": "bg1-10",
+      "prompt": "10. In BG 1.11, what does Duryodhana ask his warriors to do in relation to Bhishma?",
+      "choices": [
+        "Avoid him in battle",
+        "Give him full support at strategic points",
+        "Replace him as commander",
+        "Send him away from the phalanx"
+      ],
+      "correctIndex": 1,
+      "feedback": "Duryodhana asks everyone to give full support to Bhishma at their strategic entrances.",
+      "verseLabel": "BG 1.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/11/"
+    },
+    {
+      "id": "bg1-11",
+      "prompt": "11. In BG 1.12, Bhishma blows his conchshell loudly, making a sound like what, and it gives Duryodhana what?",
+      "choices": [
+        "A thunderbolt; fear",
+        "A roar of a lion; joy",
+        "A river; confusion",
+        "A flute; peace"
+      ],
+      "correctIndex": 1,
+      "feedback": "Bhishma's conch sounds like a lion's roar and gives Duryodhana joy.",
+      "verseLabel": "BG 1.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/12/"
+    },
+    {
+      "id": "bg1-12",
+      "prompt": "12. In BG 1.14, whose chariot is described as being drawn by white horses?",
+      "choices": [
+        "Duryodhana's",
+        "Arjuna's alone",
+        "Both Lord Krishna and Arjuna's",
+        "Bhishma's"
+      ],
+      "correctIndex": 2,
+      "feedback": "BG 1.14 describes Krishna and Arjuna on a great chariot drawn by white horses.",
+      "verseLabel": "BG 1.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/14/"
+    },
+    {
+      "id": "bg1-13",
+      "prompt": "13. In BG 1.15, which conchshell is blown by Lord Krishna?",
+      "choices": [
+        "Devadatta",
+        "Pancajanya",
+        "Paundra",
+        "Ananta-vijaya"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna blows Pancajanya; Arjuna blows Devadatta; Bhima blows Paundra.",
+      "verseLabel": "BG 1.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/15/"
+    },
+    {
+      "id": "bg1-14",
+      "prompt": "14. In BG 1.15, what is the name of Arjuna's conchshell?",
+      "choices": [
+        "Pancajanya",
+        "Ananta-vijaya",
+        "Devadatta",
+        "Sughosha"
+      ],
+      "correctIndex": 2,
+      "feedback": "BG 1.15 states Arjuna blew his conchshell named Devadatta.",
+      "verseLabel": "BG 1.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/15/"
+    },
+    {
+      "id": "bg1-15",
+      "prompt": "15. In BG 1.16-18, which pair of brothers blow the conchshells Sughosha and Manipuspaka?",
+      "choices": [
+        "Nakula and Sahadeva",
+        "Bhima and Arjuna",
+        "Krishna and Balarama",
+        "Drona and Krpa"
+      ],
+      "correctIndex": 0,
+      "feedback": "BG 1.16-18 says Nakula and Sahadeva blew Sughosha and Manipuspaka.",
+      "verseLabel": "BG 1.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/16/"
+    },
+    {
+      "id": "bg1-16",
+      "prompt": "16. In BG 1.19, what effect does the uproarious conchshell sound have on the sons of Dhritarashtra?",
+      "choices": [
+        "It pleases them greatly",
+        "It shatters their hearts",
+        "It puts them to sleep",
+        "It makes them abandon the battlefield immediately"
+      ],
+      "correctIndex": 1,
+      "feedback": "BG 1.19 says the sound shattered the hearts of the sons of Dhritarashtra.",
+      "verseLabel": "BG 1.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/19/"
+    },
+    {
+      "id": "bg1-17",
+      "prompt": "17. In BG 1.20, Arjuna's chariot bears a flag marked with which figure?",
+      "choices": [
+        "Ganesha",
+        "Garuda",
+        "Hanuman",
+        "Nrsimha"
+      ],
+      "correctIndex": 2,
+      "feedback": "BG 1.20 mentions the flag marked with Hanuman.",
+      "verseLabel": "BG 1.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/20/"
+    },
+    {
+      "id": "bg1-18",
+      "prompt": "18. In BG 1.21-22, why does Arjuna ask Krishna to place the chariot between the two armies?",
+      "choices": [
+        "To begin negotiations for peace",
+        "To see who is present and with whom he must contend",
+        "To escape the battlefield",
+        "To worship at Kurukshetra"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna asks to see those assembled and with whom he must fight in this trial of arms.",
+      "verseLabel": "BG 1.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/21/"
+    },
+    {
+      "id": "bg1-19",
+      "prompt": "19. In BG 1.23, Arjuna says the opposing side is trying to please whom?",
+      "choices": [
+        "The virtuous son of Pandu",
+        "The evil-minded son of Dhritarashtra",
+        "The sages of Naimisaranya",
+        "The demigods"
+      ],
+      "correctIndex": 1,
+      "feedback": "He says they came to fight wishing to please the evil-minded son of Dhritarashtra.",
+      "verseLabel": "BG 1.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/23/"
+    },
+    {
+      "id": "bg1-20",
+      "prompt": "20. In BG 1.25, Krishna tells Arjuna to behold all the _____ assembled there.",
+      "choices": [
+        "Pandavas",
+        "Kurus",
+        "demigods",
+        "brahmanas"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna says, 'Just behold, Partha, all the Kurus assembled here.'",
+      "verseLabel": "BG 1.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/25/"
+    },
+    {
+      "id": "bg1-21",
+      "prompt": "21. In BG 1.27, after seeing relatives and friends, Arjuna becomes overwhelmed with what?",
+      "choices": [
+        "Anger",
+        "Compassion",
+        "Pride",
+        "Indifference"
+      ],
+      "correctIndex": 1,
+      "feedback": "BG 1.27 says Arjuna became overwhelmed with compassion.",
+      "verseLabel": "BG 1.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/27/"
+    },
+    {
+      "id": "bg1-22",
+      "prompt": "22. In BG 1.28-29, which pair of symptoms does Arjuna mention first?",
+      "choices": [
+        "Hair standing and skin burning",
+        "Limbs quivering and mouth drying up",
+        "Fainting and laughter",
+        "Hunger and thirst"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna says his limbs are quivering and his mouth is drying up.",
+      "verseLabel": "BG 1.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/28/"
+    },
+    {
+      "id": "bg1-23",
+      "prompt": "23. In BG 1.30, what happens to Arjuna's bow Gandiva?",
+      "choices": [
+        "It breaks in half",
+        "It slips from his hand",
+        "It becomes heavier",
+        "He throws it at Krishna"
+      ],
+      "correctIndex": 1,
+      "feedback": "BG 1.30 states Gandiva is slipping from Arjuna's hand.",
+      "verseLabel": "BG 1.30",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/30/"
+    },
+    {
+      "id": "bg1-24",
+      "prompt": "24. In BG 1.31-32, Arjuna says he does not desire victory, kingdom, or happiness if it comes by what?",
+      "choices": [
+        "Traveling abroad",
+        "Killing his own relatives",
+        "Performing yajna",
+        "Taking sannyasa"
+      ],
+      "correctIndex": 1,
+      "feedback": "He says he does not want victory, kingdom, or happiness at the cost of killing his relatives.",
+      "verseLabel": "BG 1.31",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/31/"
+    },
+    {
+      "id": "bg1-25",
+      "prompt": "25. In BG 1.47, what does Arjuna do at the end of the chapter?",
+      "choices": [
+        "He blows his conchshell and attacks",
+        "He sits down on the chariot, casting aside his bow and arrows",
+        "He orders Krishna to withdraw",
+        "He crowns Yudhisthira"
+      ],
+      "correctIndex": 1,
+      "feedback": "BG 1.47 concludes with Arjuna sitting down on the chariot and casting aside his bow and arrows.",
+      "verseLabel": "BG 1.47",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/47/"
+    }
+  ]
+}

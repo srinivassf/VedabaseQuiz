@@ -1,0 +1,360 @@
+{
+  "id": "bg-4-adult",
+  "title": "Bhagavad Gita - Chapter 4 | Adult Quiz (25Q)",
+  "audience": "adult",
+  "difficulty": "medium-hard",
+  "questionCount": 25,
+  "publishedOn": "2026-01-28",
+  "questions": [
+    {
+      "id": "bg4-01",
+      "prompt": "1. In BG 4.1, Krishna says He spoke this yoga to whom in an earlier age?",
+      "choices": [
+        "Arjuna",
+        "The Sun-god Vivasvan",
+        "Brahma",
+        "Manu"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna says He spoke this yoga system to the Sun-god Vivasvan in ancient times.",
+      "verseLabel": "BG 4.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/1/"
+    },
+    {
+      "id": "bg4-02",
+      "prompt": "2. In BG 4.2, why has this yoga knowledge been lost from the world?",
+      "choices": [
+        "It was too difficult to understand",
+        "Because of the lapse of time, the succession has been broken",
+        "It was deliberately hidden by the demigods",
+        "It was destroyed in wars"
+      ],
+      "correctIndex": 1,
+      "feedback": "Due to the lapse of time, the succession of teachers was broken and the knowledge was lost.",
+      "verseLabel": "BG 4.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/2/"
+    },
+    {
+      "id": "bg4-03",
+      "prompt": "3. In BG 4.3, Krishna tells Arjuna that because of their intimate relationship, He is revealing this yoga to him. What relationship does Krishna specifically refer to?",
+      "choices": [
+        "As cousins",
+        "As friends in a previous life",
+        "As devotee and Lord",
+        "As student and teacher"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna reveals this yoga because they were intimate friends in previous lives; this was a secret even among the demigods.",
+      "verseLabel": "BG 4.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/3/"
+    },
+    {
+      "id": "bg4-04",
+      "prompt": "4. In BG 4.4-5, how many births have Arjuna and Krishna passed through, and who remembers them all?",
+      "choices": [
+        "Thousands of births; no one remembers",
+        "Seven births; only the great sages",
+        "Many births; only Krishna remembers",
+        "One birth; both remember"
+      ],
+      "correctIndex": 2,
+      "feedback": "Both have passed through many births, but Krishna remembers them all while Arjuna does not.",
+      "verseLabel": "BG 4.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/5/"
+    },
+    {
+      "id": "bg4-05",
+      "prompt": "5. In BG 4.6, Krishna says that although He is unborn and eternal, what do I do?",
+      "choices": [
+        "I remain in the spiritual sky",
+        "I descend from the spiritual world by My internal energy whenever there is a decline of righteousness",
+        "I am invisible to all beings",
+        "I send representatives to preach"
+      ],
+      "correctIndex": 1,
+      "feedback": "Though unborn and eternal, Krishna descends whenever there is a decline in dharma.",
+      "verseLabel": "BG 4.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/6/"
+    },
+    {
+      "id": "bg4-06",
+      "prompt": "6. In BG 4.7-8, for what two purposes does Krishna appear in this world?",
+      "choices": [
+        "To enjoy material pleasures and to teach rituals",
+        "To punish the demons and to reward the virtuous",
+        "To deliver the pious and to annihilate the miscreants, and to establish principles of religion",
+        "To establish a kingdom and to gain fame"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krishna appears to deliver the pious, annihilate the miscreants, and re-establish the principles of religion.",
+      "verseLabel": "BG 4.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/7/"
+    },
+    {
+      "id": "bg4-07",
+      "prompt": "7. In BG 4.9, what happens to one who understands Krishna's transcendental nature and activities?",
+      "choices": [
+        "He becomes wealthy",
+        "He attains liberation and returns to the spiritual world",
+        "He becomes famous in this world",
+        "He gains supernatural powers"
+      ],
+      "correctIndex": 1,
+      "feedback": "One who understands Krishna's transcendental nature and activities attains liberation (no rebirth) and returns to the spiritual world.",
+      "verseLabel": "BG 4.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/9/"
+    },
+    {
+      "id": "bg4-08",
+      "prompt": "8. In BG 4.10, how many types of people are freed from material life through devotion to Krishna?",
+      "choices": [
+        "Only the learned brahmanas",
+        "Only the wealthy kings",
+        "Those who are attracted by His qualities, whose minds are fully engaged in Him, who are always seeking His association, and who long for His love",
+        "Only those who renounce the world"
+      ],
+      "correctIndex": 2,
+      "feedback": "Four types of people are freed: those attracted to His qualities, those with minds engaged in Him, those seeking His association, and those longing for His love.",
+      "verseLabel": "BG 4.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/10/"
+    },
+    {
+      "id": "bg4-09",
+      "prompt": "9. In BG 4.13, the four divisions of society (varnas) are created based on what?",
+      "choices": [
+        "Birth",
+        "Wealth",
+        "Quality of work and inclination (guna and karma)",
+        "The king's decree"
+      ],
+      "correctIndex": 2,
+      "feedback": "The four varnas are created based on the qualities and work (guna and karma) of individuals, not on birth.",
+      "verseLabel": "BG 4.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/13/"
+    },
+    {
+      "id": "bg4-10",
+      "prompt": "10. In BG 4.15, what is the path that even wise men follow?",
+      "choices": [
+        "The path of sense gratification",
+        "The path laid down by great men of the past",
+        "The path of renunciation",
+        "The path of material acquisition"
+      ],
+      "correctIndex": 1,
+      "feedback": "Great men of the past have set the path that even wise men follow; this is the traditional way.",
+      "verseLabel": "BG 4.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/15/"
+    },
+    {
+      "id": "bg4-11",
+      "prompt": "11. In BG 4.16, what is the apparent confusion about action and inaction?",
+      "choices": [
+        "Some say all actions are forbidden",
+        "Some say all action is bad; others say action is necessary",
+        "Some say work always brings bad results",
+        "Some say meditation replaces all action"
+      ],
+      "correctIndex": 1,
+      "feedback": "The path of action is very difficult to understand; even the learned are confused about what is action and what is inaction.",
+      "verseLabel": "BG 4.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/16/"
+    },
+    {
+      "id": "bg4-12",
+      "prompt": "12. In BG 4.17-18, what kind of action is considered sinless?",
+      "choices": [
+        "Action done with attachment to results",
+        "Action understood within intelligence, when all desire is removed",
+        "Action done purely for enjoyment",
+        "Action done without any effort"
+      ],
+      "correctIndex": 1,
+      "feedback": "The person who sees inaction in action and action in inaction is understood to have knowledge and has performed all sinless action.",
+      "verseLabel": "BG 4.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/18/"
+    },
+    {
+      "id": "bg4-13",
+      "prompt": "13. In BG 4.19, what is the characteristic of a wise person?",
+      "choices": [
+        "He performs many rituals and sacrifices",
+        "All his works are performed with no desire for fruitive results",
+        "He constantly travels to holy places",
+        "He avoids all types of work"
+      ],
+      "correctIndex": 1,
+      "feedback": "A wise person is one whose works are devoid of selfish motive; all actions are consumed by the fire of knowledge.",
+      "verseLabel": "BG 4.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/19/"
+    },
+    {
+      "id": "bg4-14",
+      "prompt": "14. In BG 4.20, what is the state of one who is liberated in this life?",
+      "choices": [
+        "He becomes invisible",
+        "He lives in complete inaction",
+        "He has no longing for results; his actions are burnt up in the fire of knowledge",
+        "He stops all food intake"
+      ],
+      "correctIndex": 2,
+      "feedback": "One who neither expects nor desires the results of action, and has no attachment, is considered already liberated.",
+      "verseLabel": "BG 4.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/20/"
+    },
+    {
+      "id": "bg4-15",
+      "prompt": "15. In BG 4.21, what does a man of steady mind do?",
+      "choices": [
+        "He indulges all sensory pleasures",
+        "He renounces all possessions",
+        "He renounces the results of action and is satisfied with what comes naturally; he is free from envies",
+        "He gathers wealth from all sources"
+      ],
+      "correctIndex": 2,
+      "feedback": "A man of steady mind is content with whatever is obtained naturally, free from envy, and transcends the duality of gain and loss.",
+      "verseLabel": "BG 4.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/21/"
+    },
+    {
+      "id": "bg4-16",
+      "prompt": "16. In BG 4.23, what is the condition of the liberated soul who acts?",
+      "choices": [
+        "His actions have consequences",
+        "His actions bind him to karma",
+        "All acts are devoid of binding force; he is not bound by his actions",
+        "His actions must be compensated"
+      ],
+      "correctIndex": 2,
+      "feedback": "For one who is liberated, all activities are devoid of karmic reactions; he is not bound by actions.",
+      "verseLabel": "BG 4.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/23/"
+    },
+    {
+      "id": "bg4-17",
+      "prompt": "17. In BG 4.24, what is Brahman according to this verse?",
+      "choices": [
+        "The form of a person",
+        "A particular place",
+        "That offering is Brahman; the oblation is Brahman; the act of offering is Brahman; by Brahman it is offered into the fire of Brahman",
+        "The sky"
+      ],
+      "correctIndex": 2,
+      "feedback": "This verse describes the non-dual nature of action and sacrifice: all aspects are Brahman, the Absolute Reality.",
+      "verseLabel": "BG 4.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/24/"
+    },
+    {
+      "id": "bg4-18",
+      "prompt": "18. In BG 4.26, what is the position of one who offers the senses in the fire of self-control?",
+      "choices": [
+        "He becomes weak",
+        "He is considered wise and pure",
+        "He becomes mentally disturbed",
+        "He loses his ability to work"
+      ],
+      "correctIndex": 1,
+      "feedback": "One who offers the senses in the fire of self-control is wise and pure, accepted as a great yogi.",
+      "verseLabel": "BG 4.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/26/"
+    },
+    {
+      "id": "bg4-19",
+      "prompt": "19. In BG 4.29-30, what are some of the different types of sacrifices Krishna mentions?",
+      "choices": [
+        "Only animal sacrifices",
+        "Breath control, study of the Vedas, sense control, penances, and meditation",
+        "Only fire sacrifices",
+        "Only monetary donations"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna mentions various sacrifices including breath control, Vedic study, sense control, penances, meditation, and knowledge.",
+      "verseLabel": "BG 4.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/29/"
+    },
+    {
+      "id": "bg4-20",
+      "prompt": "20. In BG 4.33, what does Krishna say is superior to all material sacrifices?",
+      "choices": [
+        "Fire sacrifices",
+        "Charitable donations",
+        "The sacrifice of knowledge",
+        "Fasting and austerities"
+      ],
+      "correctIndex": 2,
+      "feedback": "Knowledge sacrifice is superior to all material sacrifices; all actions in their totality culminate in knowledge.",
+      "verseLabel": "BG 4.33",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/33/"
+    },
+    {
+      "id": "bg4-21",
+      "prompt": "21. In BG 4.34, how does one gain knowledge?",
+      "choices": [
+        "Through books and intellectual study alone",
+        "By living in solitude",
+        "By inquiring submissively and rendering service to the spiritual master; the wise give knowledge to one who has approached them",
+        "Through material wealth"
+      ],
+      "correctIndex": 2,
+      "feedback": "By approaching a bona fide spiritual master, inquiring submissively, and rendering service, one gains knowledge.",
+      "verseLabel": "BG 4.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/34/"
+    },
+    {
+      "id": "bg4-22",
+      "prompt": "22. In BG 4.35, what happens when one gains knowledge from a spiritual master?",
+      "choices": [
+        "He becomes confused",
+        "He no longer performs any actions",
+        "He never again suffers illusion because he sees that all living beings are part of the Supreme",
+        "He becomes famous in the world"
+      ],
+      "correctIndex": 2,
+      "feedback": "With knowledge from a spiritual master, one sees all living beings as part of the Supreme and never again experiences illusion.",
+      "verseLabel": "BG 4.35",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/35/"
+    },
+    {
+      "id": "bg4-23",
+      "prompt": "23. In BG 4.37, what is the result of the fire of knowledge?",
+      "choices": [
+        "It causes physical harm",
+        "It burns up all sins completely",
+        "It brings material wealth",
+        "It disturbs peace"
+      ],
+      "correctIndex": 1,
+      "feedback": "The fire of knowledge burns up all the consequences of fruitive actions; all sinful reactions are completely burned up.",
+      "verseLabel": "BG 4.37",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/37/"
+    },
+    {
+      "id": "bg4-24",
+      "prompt": "24. In BG 4.38, what destroys the knowledge-fire?",
+      "choices": [
+        "Charity and sacrifice",
+        "Water from a river",
+        "Nothing in this world destroys it; knowledge is eternal",
+        "Lack of faith and doubt"
+      ],
+      "correctIndex": 2,
+      "feedback": "Nothing in this world is as pure and powerful as transcendental knowledge; nothing can destroy it.",
+      "verseLabel": "BG 4.38",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/38/"
+    },
+    {
+      "id": "bg4-25",
+      "prompt": "25. In BG 4.39, what is the result of perfect control of the senses through yoga practice?",
+      "choices": [
+        "Physical strength only",
+        "He attains peace of mind through satisfaction in knowledge; all the results of actions are consigned to the Lord",
+        "Material prosperity",
+        "Fame and honor"
+      ],
+      "correctIndex": 1,
+      "feedback": "By controlling the senses and practicing yoga, one attains peace through transcendental knowledge and is released from all actions.",
+      "verseLabel": "BG 4.39",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/39/"
+    }
+  ]
+}

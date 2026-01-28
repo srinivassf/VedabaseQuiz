@@ -1,0 +1,38 @@
+{
+  "id": "bg-5-kids",
+  "title": "Bhagavad Gita - Chapter 5 (Verses 1-18) | Kids Quiz",
+  "audience": "kids",
+  "difficulty": "easy",
+  "questionCount": 10,
+  "publishedOn": "2026-01-26",
+  "questions": [
+    {
+      "id": "bg5-1",
+      "prompt": "1. In verse 5.1, Arjuna asks Krishna about:",
+      "choices": [
+        "How to fight the war",
+        "Whether renunciation or working without attachment is better",
+        "How to meditate",
+        "How to worship demigods"
+      ],
+      "correctIndex": 1,
+      "feedback": "Good job! Krishna compares renunciation and working without attachment here.",
+      "verseLabel": "BG 5.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/1/"
+    },
+    {
+      "id": "bg5-2",
+      "prompt": "2. Krishna explains that both renunciation and karma-yoga:",
+      "choices": [
+        "Are wrong paths",
+        "Lead to confusion",
+        "Can lead to liberation",
+        "Are only for adults"
+      ],
+      "correctIndex": 2,
+      "feedback": "Both paths can lead to liberation, and Krishna explains their purpose here.",
+      "verseLabel": "BG 5.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/2/"
+    }
+  ]
+}

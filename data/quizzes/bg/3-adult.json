@@ -1,0 +1,360 @@
+{
+  "id": "bg-3-adult",
+  "title": "Bhagavad Gita - Chapter 3 | Adult Quiz (25Q)",
+  "audience": "adult",
+  "difficulty": "medium-hard",
+  "questionCount": 25,
+  "publishedOn": "2026-01-26",
+  "questions": [
+    {
+      "id": "bg3-01",
+      "prompt": "1. In BG 3.1, Arjuna is confused because Krishna appears to praise which two paths?",
+      "choices": [
+        "Bhakti and jnana",
+        "Renunciation (jnana) and action (karma)",
+        "Yoga and sankhya",
+        "Silence and meditation"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna notes Krishna praises both renunciation and action, creating apparent contradiction.",
+      "verseLabel": "BG 3.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/1/"
+    },
+    {
+      "id": "bg3-02",
+      "prompt": "2. In BG 3.2, Arjuna asks Krishna to clearly tell him which path will be most beneficial.",
+      "choices": [
+        "Both equally",
+        "Renunciation only",
+        "Action only",
+        "One definite path"
+      ],
+      "correctIndex": 3,
+      "feedback": "Arjuna requests a clear, decisive instruction rather than mixed guidance.",
+      "verseLabel": "BG 3.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/2/"
+    },
+    {
+      "id": "bg3-03",
+      "prompt": "3. In BG 3.3, Krishna explains that there are two paths described by Him for conditioned souls.",
+      "choices": [
+        "Bhakti and yoga",
+        "Sankhya for philosophers and karma-yoga for workers",
+        "Meditation and austerity",
+        "Study and charity"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna distinguishes sankhya (knowledge) and karma-yoga (work in devotion).",
+      "verseLabel": "BG 3.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/3/"
+    },
+    {
+      "id": "bg3-04",
+      "prompt": "4. According to BG 3.4, can one attain freedom from reaction by merely avoiding work?",
+      "choices": [
+        "Yes, always",
+        "No",
+        "Only for sannyasis",
+        "Only for brahmanas"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna says one cannot achieve freedom merely by abstaining from work.",
+      "verseLabel": "BG 3.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/4/"
+    },
+    {
+      "id": "bg3-05",
+      "prompt": "5. In BG 3.5, why is complete inaction impossible?",
+      "choices": [
+        "Because society forces work",
+        "Because the modes of nature compel action",
+        "Because karma accumulates",
+        "Because work is enjoyable"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport explains that the modes of material nature force everyone to act.",
+      "verseLabel": "BG 3.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/5/"
+    },
+    {
+      "id": "bg3-06",
+      "prompt": "6. BG 3.6 criticizes a person who restrains the senses but mentally dwells on sense objects as:",
+      "choices": [
+        "Advanced yogi",
+        "Hypocrite",
+        "Renunciate",
+        "Wise philosopher"
+      ],
+      "correctIndex": 1,
+      "feedback": "Externally restraining while mentally enjoying sense objects is hypocrisy.",
+      "verseLabel": "BG 3.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/6/"
+    },
+    {
+      "id": "bg3-07",
+      "prompt": "7. In BG 3.7, who is considered superior?",
+      "choices": [
+        "One who renounces all action",
+        "One who controls the senses by the mind and works without attachment",
+        "One who performs rituals only",
+        "One who avoids society"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna praises controlled action without attachment.",
+      "verseLabel": "BG 3.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/7/"
+    },
+    {
+      "id": "bg3-08",
+      "prompt": "8. In BG 3.8, prescribed duties should be performed because:",
+      "choices": [
+        "They bring wealth",
+        "They maintain the body and social order",
+        "They eliminate all karma",
+        "They impress others"
+      ],
+      "correctIndex": 1,
+      "feedback": "Even bodily maintenance depends on performing prescribed work.",
+      "verseLabel": "BG 3.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/8/"
+    },
+    {
+      "id": "bg3-09",
+      "prompt": "9. According to BG 3.9, work should be performed as a sacrifice for whom?",
+      "choices": [
+        "The demigods",
+        "Society",
+        "Vishnu",
+        "Family"
+      ],
+      "correctIndex": 2,
+      "feedback": "Work done for Vishnu frees one from bondage.",
+      "verseLabel": "BG 3.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/9/"
+    },
+    {
+      "id": "bg3-10",
+      "prompt": "10. In BG 3.10-11, Krishna describes mutual cooperation between humans and whom?",
+      "choices": [
+        "Kings",
+        "Sages",
+        "Demigods",
+        "Animals"
+      ],
+      "correctIndex": 2,
+      "feedback": "Humans and demigods cooperate through sacrifice for prosperity.",
+      "verseLabel": "BG 3.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/10/"
+    },
+    {
+      "id": "bg3-11",
+      "prompt": "11. BG 3.12 warns that one who enjoys gifts without offering sacrifice is:",
+      "choices": [
+        "Fortunate",
+        "A thief",
+        "Detached",
+        "Enlightened"
+      ],
+      "correctIndex": 1,
+      "feedback": "The purport calls such a person a thief.",
+      "verseLabel": "BG 3.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/12/"
+    },
+    {
+      "id": "bg3-12",
+      "prompt": "12. In BG 3.14, the chain of dependence begins with food grains, which come from:",
+      "choices": [
+        "Trade",
+        "Rain",
+        "Technology",
+        "Kings"
+      ],
+      "correctIndex": 1,
+      "feedback": "Rain comes from sacrifice, linking work to cosmic order.",
+      "verseLabel": "BG 3.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/14/"
+    },
+    {
+      "id": "bg3-13",
+      "prompt": "13. BG 3.16 states that one who does not follow the wheel of sacrifice lives in vain and is:",
+      "choices": [
+        "Liberated",
+        "Sinful",
+        "Neutral",
+        "Beyond rules"
+      ],
+      "correctIndex": 1,
+      "feedback": "Ignoring the sacrificial cycle leads to sinful life.",
+      "verseLabel": "BG 3.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/16/"
+    },
+    {
+      "id": "bg3-14",
+      "prompt": "14. In BG 3.17, who has no duty to perform?",
+      "choices": [
+        "Householders",
+        "One satisfied in the self",
+        "Kings",
+        "Workers"
+      ],
+      "correctIndex": 1,
+      "feedback": "A self-realized person has no prescribed duty.",
+      "verseLabel": "BG 3.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/17/"
+    },
+    {
+      "id": "bg3-15",
+      "prompt": "15. BG 3.19 advises performing duty without attachment because:",
+      "choices": [
+        "It guarantees success",
+        "It leads to the Supreme",
+        "It avoids criticism",
+        "It ends all suffering immediately"
+      ],
+      "correctIndex": 1,
+      "feedback": "Detached work leads to the Supreme.",
+      "verseLabel": "BG 3.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/19/"
+    },
+    {
+      "id": "bg3-16",
+      "prompt": "16. In BG 3.21, why should leaders act properly?",
+      "choices": [
+        "For fame",
+        "To set an example for others",
+        "To avoid punishment",
+        "For enjoyment"
+      ],
+      "correctIndex": 1,
+      "feedback": "People follow the example of great leaders.",
+      "verseLabel": "BG 3.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/21/"
+    },
+    {
+      "id": "bg3-17",
+      "prompt": "17. In BG 3.24, Krishna says if He did not act, what would happen?",
+      "choices": [
+        "Nothing",
+        "All worlds would perish",
+        "Demigods would rebel",
+        "Humans would stop working"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna states His action maintains cosmic order.",
+      "verseLabel": "BG 3.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/24/"
+    },
+    {
+      "id": "bg3-18",
+      "prompt": "18. BG 3.26 cautions devotees not to disturb whom?",
+      "choices": [
+        "Sinners",
+        "The minds of ignorant workers attached to fruitive work",
+        "Kings",
+        "Children"
+      ],
+      "correctIndex": 1,
+      "feedback": "Devotees should inspire, not disrupt, the ignorant.",
+      "verseLabel": "BG 3.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/26/"
+    },
+    {
+      "id": "bg3-19",
+      "prompt": "19. In BG 3.27, who is falsely considered the doer of activities?",
+      "choices": [
+        "The soul",
+        "The mind",
+        "The false ego influenced by the modes",
+        "The Supersoul"
+      ],
+      "correctIndex": 2,
+      "feedback": "False ego makes one think oneself the doer.",
+      "verseLabel": "BG 3.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/27/"
+    },
+    {
+      "id": "bg3-20",
+      "prompt": "20. BG 3.29 explains that those bewildered by the modes should be treated how?",
+      "choices": [
+        "Condemned",
+        "Ignored",
+        "Engaged gradually in proper work",
+        "Forced to renounce"
+      ],
+      "correctIndex": 2,
+      "feedback": "They should be engaged, not disturbed.",
+      "verseLabel": "BG 3.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/29/"
+    },
+    {
+      "id": "bg3-21",
+      "prompt": "21. In BG 3.30, Krishna instructs Arjuna to fight by:",
+      "choices": [
+        "Renouncing action",
+        "Fixing the mind on Him and giving up proprietorship",
+        "Following emotion",
+        "Ignoring duty"
+      ],
+      "correctIndex": 1,
+      "feedback": "Work should be offered to Krishna without selfishness.",
+      "verseLabel": "BG 3.30",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/30/"
+    },
+    {
+      "id": "bg3-22",
+      "prompt": "22. In BG 3.33, even a wise person acts according to:",
+      "choices": [
+        "Scripture alone",
+        "His nature",
+        "Others opinions",
+        "Avoidance"
+      ],
+      "correctIndex": 1,
+      "feedback": "Nature compels action.",
+      "verseLabel": "BG 3.33",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/33/"
+    },
+    {
+      "id": "bg3-23",
+      "prompt": "23. BG 3.34 identifies attachment and aversion as arising from:",
+      "choices": [
+        "Destiny",
+        "Sense objects",
+        "Society",
+        "Education"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sense objects create attraction and repulsion.",
+      "verseLabel": "BG 3.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/34/"
+    },
+    {
+      "id": "bg3-24",
+      "prompt": "24. In BG 3.36, Arjuna asks what forces one to sinful acts against his will?",
+      "choices": [
+        "Mind alone",
+        "Destiny",
+        "Lust (kama)",
+        "Ignorance"
+      ],
+      "correctIndex": 2,
+      "feedback": "Arjuna identifies inner compulsion.",
+      "verseLabel": "BG 3.36",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/36/"
+    },
+    {
+      "id": "bg3-25",
+      "prompt": "25. BG 3.37-43 identifies lust as the enemy, residing primarily in:",
+      "choices": [
+        "The body",
+        "The senses, mind, and intelligence",
+        "The heart only",
+        "Society"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna explains lust covers knowledge and must be conquered.",
+      "verseLabel": "BG 3.37",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/37/"
+    }
+  ]
+}
